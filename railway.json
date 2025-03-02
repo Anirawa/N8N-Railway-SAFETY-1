@@ -1,0 +1,10 @@
+{
+  "environments": {
+    "production": {
+      "env": {
+        "N8N_ENCRYPTION_KEY": "your-random-string",
+        "NODE_ENV": "production"
+      }
+    }
+  }
+}
